@@ -2,5 +2,5 @@
 my uni project
 
 Admin-user:
-admin@admin.com
-123
+email: admin@admin.com
+ password: admin123
